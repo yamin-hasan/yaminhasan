@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="t d">
+<title id="t">A clearer view of local business visibility</title><desc id="d">Abstract editorial illustration of a map, location marker and business profile cards.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#245c50"/><stop offset="1" stop-color="#133d36"/></linearGradient><pattern id="p" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#ffffff" stroke-opacity=".08"/></pattern></defs>
+<rect x="38" y="28" width="824" height="704" rx="42" fill="url(#g)"/><rect x="38" y="28" width="824" height="704" rx="42" fill="url(#p)"/>
+<path d="M105 175 290 110l176 70 190-66 137 48v440l-182 61-172-67-183 69-151-54Z" fill="#f6f7f2" fill-opacity=".08" stroke="#dce5de" stroke-opacity=".3" stroke-width="3"/>
+<path d="m290 110-2 561M466 180l-7 416M656 114l-9 549M105 390l688-18M105 535l688-17" stroke="#dce5de" stroke-opacity=".25" stroke-width="3" stroke-dasharray="10 12"/>
+<path d="M430 302c0-62 48-110 108-110s108 48 108 110c0 79-108 190-108 190S430 381 430 302Z" fill="#c9e66b"/><circle cx="538" cy="302" r="35" fill="#133d36"/>
+<rect x="112" y="220" width="242" height="150" rx="18" fill="#fff"/><circle cx="148" cy="258" r="17" fill="#c9e66b"/><path d="M180 250h132M180 270h92" stroke="#133d36" stroke-width="9" stroke-linecap="round"/><path d="M136 310h180M136 332h142" stroke="#dce5de" stroke-width="9" stroke-linecap="round"/>
+<rect x="536" y="505" width="258" height="142" rx="18" fill="#fff"/><path d="M566 540h160M566 562h113" stroke="#133d36" stroke-width="9" stroke-linecap="round"/><g fill="#c9e66b"><path d="m570 601 8 8 17-19-7-6-10 11-4-4Z"/><path d="m608 601 8 8 17-19-7-6-10 11-4-4Z"/><path d="m646 601 8 8 17-19-7-6-10 11-4-4Z"/></g>
+<circle cx="738" cy="207" r="35" fill="#c9e66b" fill-opacity=".18"/><circle cx="738" cy="207" r="12" fill="#c9e66b"/>
+</svg>
