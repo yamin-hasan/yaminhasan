@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://yaminhasan.pages.dev/sitemap.xml
